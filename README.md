@@ -26,8 +26,10 @@ https://fake-review-detection-system-ml.streamlit.app/
 - Grade Calculation
 - Built using Python & Streamlit
 
-🔗 Repository:
-https://github.com/dhruv-bhoir-ai/student-pass-fail-prediction
+🔗 Repository: https://github.com/dhruv-bhoir-ai/student-pass-fail-prediction
+
+🌐 Live Demo:
+https://student-pass-fail-prediction-ml.streamlit.app/
 
 ---
 
