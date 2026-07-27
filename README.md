@@ -59,7 +59,7 @@ GitHub:
 https://github.com/dhruv-bhoir-ai
 
 LinkedIn:
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/dhruv-bhoir-ai
 
 ---
 
