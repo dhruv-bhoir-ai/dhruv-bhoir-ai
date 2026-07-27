@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhruv Bhoir
+# Hi , I'm Dhruv Bhoir
 
 🎓 BCA (AI & ML) Student at Galgotias University
 
