@@ -55,9 +55,6 @@ https://student-pass-fail-prediction-ml.streamlit.app/
 
 ## 📫 Connect with Me
 
-GitHub:
-https://github.com/dhruv-bhoir-ai
-
 LinkedIn:
 https://www.linkedin.com/in/dhruv-bhoir-ai
 
