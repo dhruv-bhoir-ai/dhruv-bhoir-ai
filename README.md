@@ -32,7 +32,6 @@ https://student-pass-fail-prediction-ml.streamlit.app/
 ## 🛠️ Skills
 
 - Python
-- Scikit-Learn
 - Machine Learning
 - Natural Language Processing (NLP)
 - Streamlit
@@ -53,6 +52,9 @@ https://student-pass-fail-prediction-ml.streamlit.app/
 
 LinkedIn:
 https://www.linkedin.com/in/dhruv-bhoir-ai
+
+Email: 
+dhruv.bhoir.work@gmail.com
 
 ---
 
