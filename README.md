@@ -9,7 +9,7 @@
 ## 🚀 Featured Projects
 
 ### 🔍 Fake Review Detection System
-ML-based system for classifying product reviews as genuine or fake using TF-IDF feature extraction and an MLP neural network, achieving 88.4% test accuracy on a dataset of 40,432 labeled reviews. Deployed as an interactive Streamlit web application for real-time predictions.
+ML-based system for classifying product reviews as genuine or fake using TF-IDF feature extraction and an MLP neural network, achieving 88.4% test accuracy on a dataset of 40,000 labeled reviews. Deployed as an interactive Streamlit web application for real-time predictions.
 
 🔗 Repository: https://github.com/dhruv-bhoir-ai/fake-review-detection-system
 
