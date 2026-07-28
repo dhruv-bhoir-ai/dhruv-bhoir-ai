@@ -20,9 +20,7 @@ https://fake-review-detection-system-ml.streamlit.app/
 
 ### 🎓 Student Pass/Fail Prediction System
 
-- Automatic Result Generation
-- Grade Calculation
-- Built using Python & Streamlit
+Student Pass/Fail Prediction System using Logistic Regression to predict student outcomes based on average marks and percentage. Features automated report generation, grade calculation, and an interactive Streamlit web application.
 
 🔗 Repository: https://github.com/dhruv-bhoir-ai/student-pass-fail-prediction
 
