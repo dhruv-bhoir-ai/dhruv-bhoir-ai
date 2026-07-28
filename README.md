@@ -32,7 +32,7 @@ https://student-pass-fail-prediction-ml.streamlit.app/
 ## 🛠️ Skills
 
 - Python
-- Java
+- Scikit-Learn
 - Machine Learning
 - Natural Language Processing (NLP)
 - Streamlit
